@@ -1,7 +1,7 @@
 Fantasy Privacy Policy
 
 Effective date: September 21, 2026
-Contact: owner@example.com (replace this placeholder before publication)
+Contact: sami29111999@gmail.com
 
 Fantasy is a fantasy football squad-builder app. This policy explains how the
 app handles information.
@@ -41,7 +41,7 @@ Children
 Fantasy does not knowingly collect information from children or from any
 other user. It has no account or communication feature.
 
-Changes and contact
+sami29111999@gmail.com
 
 If this policy changes, the updated effective date will be shown here. For
 privacy questions, contact the owner at owner@example.com. The owner should
