@@ -43,7 +43,3 @@ other user. It has no account or communication feature.
 
 sami29111999@gmail.com
 
-If this policy changes, the updated effective date will be shown here. For
-privacy questions, contact the owner at owner@example.com. The owner should
-replace this placeholder with the application's support address before
-submitting the listing.
